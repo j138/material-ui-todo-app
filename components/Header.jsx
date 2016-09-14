@@ -1,5 +1,5 @@
 import React from 'react';
-import mui, { AppBar } from 'material-ui';
+import { AppBar } from 'material-ui';
 
 const header = () => (
   <header>

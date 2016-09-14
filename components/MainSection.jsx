@@ -1,10 +1,9 @@
 import React from 'react';
-import mui, {
+import {
   CircularProgress,
   Tabs,
   Tab,
   DatePicker,
-  AppBar,
 } from 'material-ui';
 
 const MainSection = () => (
